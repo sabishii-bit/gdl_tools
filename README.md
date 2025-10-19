@@ -840,19 +840,6 @@ stats:
   attack: 15
 ```
 
-Edit carefully - incorrect values can crash the game.
-
-## Contributing
-
-This is a reverse-engineering project for game preservation and modding purposes.
-
-**When contributing:**
-- Document findings about game formats
-- Add comments explaining non-obvious code
-- Test with multiple platform versions
-- Maintain compatibility with existing workflows
-- Update both README.md and CLAUDE.md
-
 ## License
 
 This project is licensed under the GNU Lesser General Public License v2.1 - see the [LICENSE](LICENSE) file for details.
