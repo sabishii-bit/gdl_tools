@@ -46,18 +46,12 @@ Gauntlet: Dark Legacy stores its game data in a hierarchical structure:
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.9.13
 - tkinter (usually included with Python)
 
 ### Dependencies
 
-Install all required dependencies:
-
-```bash
-pip install arbytmap binilla numpy pypng pycollada scipy supyr_struct panda3d pyyaml pmw
-```
-
-Or install from the dependencies file:
+Install using:
 
 ```bash
 pip install -r dependencies.txt
