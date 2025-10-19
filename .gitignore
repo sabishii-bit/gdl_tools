@@ -2,3 +2,5 @@
 *.log
 *.cfg
 /test.py
+.venv/
+CLAUDE.md
