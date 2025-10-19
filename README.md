@@ -852,4 +852,3 @@ This project is licensed under the GNU Lesser General Public License v2.1 - see 
 - [Panda3D](https://www.panda3d.org/) - 3D rendering engine
 - [arbytmap](https://github.com/Sigmmma/arbytmap) - Bitmap processing
 
-**Special thanks to the game modding community for reverse engineering Gauntlet: Dark Legacy's formats.**
